@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1695195507 source:d:\projects\codeblocks\mylibraries\mystack.c
+	"mystack.h"
+
+1695195770 d:\projects\codeblocks\mylibraries\mystack.h
+	<stdio.h>
+	<stdlib.h>
+
+1698029836 source:d:\projects\codeblocks\mylibraries\main.c
+	<stdio.h>
+	"mystack.h"
+	"mytree.h"
+	"treetest.h"
+
+1698030085 source:d:\projects\codeblocks\mylibraries\mytree.c
+	"mytree.h"
+
+1698030089 d:\projects\codeblocks\mylibraries\mytree.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1698029838 d:\projects\codeblocks\mylibraries\treetest.h
+	"mytree.h"
+
