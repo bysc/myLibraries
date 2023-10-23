@@ -19,5 +19,11 @@ void preOrder(treeNode *root);
 void inOrder(treeNode *root);
 void postOrder(treeNode *root);
 
-int isFullTree(treeNode *root);
+bool isFullTree(treeNode *root);
+int depth(treeNode *root);
+bool isPerfect(treeNode *root,int d,int level);
+bool isPerfectTree(treeNode *root);
+int numbersOfTree(treeNode *root);
+bool isCompleteTree(treeNode *root,int index,int numbers);
+bool isHeightBalanceTree(treeNode *root, int *height);
 #endif // MYTREE_H_INCLUDED

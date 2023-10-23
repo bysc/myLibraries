@@ -4,6 +4,6 @@
 #include "treetest.h"
 int main()
 {
-    testTreeTravel();
+    testTreeType();
     return 0;
 }
