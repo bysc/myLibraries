@@ -6,13 +6,11 @@
 	<stdio.h>
 	<stdlib.h>
 
-1698306929 source:d:\projects\codeblocks\mylibraries\main.c
+1698630642 source:d:\projects\codeblocks\mylibraries\main.c
 	<stdio.h>
-	"mystack.h"
-	"mytree.h"
-	"treetest.h"
+	<stdlib.h>
 
-1698046570 source:d:\projects\codeblocks\mylibraries\mytree.c
+1698592552 source:d:\projects\codeblocks\mylibraries\mytree.c
 	"mytree.h"
 
 1698592554 d:\projects\codeblocks\mylibraries\mytree.h
@@ -25,4 +23,6 @@
 
 1698306929 source:d:\projects\codeblocks\mylibraries\treetest.c
 	"treetest.h"
+
+1698629116 source:d:\projects\codeblocks\mylibraries\b_tree.c
 

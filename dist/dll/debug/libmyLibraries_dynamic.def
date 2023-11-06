@@ -1,0 +1,25 @@
+EXPORTS
+    BSI_Insert @1
+    BSI_Min @2
+    BSI_delete @3
+    deLinkListStack @4
+    delTree @5
+    depth @6
+    inOrder @7
+    isCompleteTree @8
+    isFullTree @9
+    isHeightBalanceTree @10
+    isPerfect @11
+    isPerfectTree @12
+    linkListStackPop @13
+    linkListStackPush @14
+    newLinkListStack @15
+    newNode @16
+    newTree @17
+    numbersOfTree @18
+    peekofLinkListStack @19
+    postOrder @20
+    preOrder @21
+    sizeofLinkListStack @22
+    testTreeTravel @23
+    testTreeType @24
